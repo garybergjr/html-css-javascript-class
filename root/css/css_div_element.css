@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+}
+
+ul {
+  color: red
+}
+
+h2, h3 {
+  font-size: 40px
+}
+
+h3 {
+  font-style: italic;
+}
+
+.green-color {
+    color:green;
+}
+
+.background-blue {
+  background-color: aliceblue;
+}
+
+.large-font {
+  font-size: 8px;
+}
+
+P {
+  background-color: lawngreen;
+}
+
+.course {
+  border: solid thin #eeeeee;
+  padding: 4px 12px;
+  backgrond-color: asure;
+  width: 800px;
+}
+
+.reviews {
+  padding: 4px 12px
+  background-color: antiquewhite;
+  width: 760px;
+  font-style: italic;
+}

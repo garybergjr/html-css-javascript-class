@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+}
+
+ul {
+  color: red
+}
+
+h2, h3 {
+  font-size: 40px
+}
+
+h3 {
+  font-style: italic;
+}
+
+.green-color {
+    color:green;
+}
+
+.background-blue {
+  background-color: aliceblue;
+}
+
+.large-font {
+  font-size: 8px;
+}
+
+P {
+  background-color: lawngreen;
+}
